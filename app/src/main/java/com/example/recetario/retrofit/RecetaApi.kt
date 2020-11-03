@@ -7,11 +7,11 @@ import retrofit2.http.GET
 
 interface RecetaApi {
 
-    @GET("db.json")
+    @GET("recetario")
 
     fun fetchAllRecetas(): Call<List<Recetario>>
 
-    @GET("db.json")
+    @GET("recetario")
 
     fun fetchAllRecetasCoroutines(): Response<List<Recetario>>
 }

@@ -5,21 +5,17 @@ import androidx.fragment.app.Fragment
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import androidx.lifecycle.Observer
 import androidx.lifecycle.ViewModelProvider
 import androidx.navigation.fragment.findNavController
 import androidx.recyclerview.widget.LinearLayoutManager
+import com.example.products.R
 import com.example.recetario.Adapter.Adapter
 import com.example.recetario.Adapter.PassRecetas
-import com.example.recetario.R
 import com.example.recetario.ViewModel.RecetaViewModel
 import com.example.recetario.room.Recetario
 import kotlinx.android.synthetic.main.fragment_first.*
 
-/**
- * A simple [Fragment] subclass as the default destination in the navigation.
- */
 class FirstFragment : Fragment(), PassRecetas {
 
     lateinit var mRecetaViewModel: RecetaViewModel
