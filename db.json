@@ -4,7 +4,14 @@
     {
       "id": 1,
       "Nombre Receta": "Arroz Arabe",
-      "Ingredientes": "2 Tazas de Arroz",
+      "Ingredientes": [
+              "2 Tazas de Arroz", 
+              "4 Tazas de Agua Hirviendo",
+              "1/2 Taza de Cabellitos de Ángel", 
+              "400 grs. de champiñones laminados",
+              "Sal",
+              "1 cucharada de mantequilla"
+              ]
       "Preparacion": "Paso 1: En una olla sofreír (sin aceite) los cabellitos de ángel hasta dorarlos. Evitar que se quemen.",
       "Recomendacion": "Carne, Pollo, Pescado o Guiso de Verduras.",
       "img": "https://elmundoarabe.org/wp-content/uploads/2017/11/arroz-turco-e1539026167632.jpg"
