@@ -4,12 +4,9 @@
     {
       "id": 1,
       "Nombre Receta": "Arroz Arabe",
-      "Ingredientes": 
-              "2 Tazas de Arroz", 
-              
-      "Preparacion": 
-      "Paso 1: En una olla sofreír (sin aceite) los cabellitos de ángel hasta dorarlos. Evitar que se quemen.",
-      
+      "Ingredientes": "2 Tazas de Arroz", 
+      "Ingredientes2": " 4 tazas de agua",        
+      "Preparacion": "Paso 1: En una olla sofreír (sin aceite) los cabellitos de ángel hasta dorarlos. Evitar que se quemen.",  
       "Recomendacion": "Carne, Pollo, Pescado o Guiso de Verduras.",
       "img": "https://elmundoarabe.org/wp-content/uploads/2017/11/arroz-turco-e1539026167632.jpg"
     }
